@@ -9,13 +9,13 @@ A simple Windows Forms app for organizing your manga collection ! 😎📖
 - **Genre Picker**: Select multiple genres with a stylish dropdown (custom-built!).
 - **Delete with Dignity**: Remove stories cleanly, with no drama.
 
-## Tech Stack
+## Tech
 - C# WinForms (.NET)
 - SQLite + Entity Framework Core
 - Custom UI utils for image and dropdown handling ( not beautiful :( )
 
 ## Why
-I dunno ... 
+- I dunno ... 
 ---
 
 > Just a side project...
